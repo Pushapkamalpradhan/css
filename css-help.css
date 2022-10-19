@@ -1,81 +1,81 @@
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-													GRID ONLY LEARN
 
 
-													display: grid;
 
-							
 
-	width
-	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-	
-	height
-	grid-auto-rows: minmax(100px, auto);
-	
-	
-	equal size giver in grid
-	gap: 10px;
-	
-	
+
+
+
+												GRID ONLY LEARN
+
+
+												display: grid;
+
+
+
+width
+grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+
+height
+grid-auto-rows: minmax(100px, auto);
+
+
+equal size giver in grid
+gap: 10px;
+
+
 <div class="grid-container">
-  <div><i class="fa fa-folder-open-o"></i></div>
-  <div><i class="fa fa-folder-open-o"></i></div>
-  <div><i class="fa fa-folder-open-o"></i></div>  
-  <div><i class="fa fa-folder-open-o"></i></div>
-  <div><i class="fa fa-folder-open-o"></i></div>
-  <div><i class="fa fa-folder-open-o"></i></div>
-  <div><i class="fa fa-folder-open-o"></i></div>
-  <div><i class="fa fa-folder-open-o"></i></div>
-  <div><i class="fa fa-folder-open-o"></i></div>
-  <div><i class="fa fa-folder-open-o"></i></div>
-          
+<div><i class="fa fa-folder-open-o"></i></div>
+<div><i class="fa fa-folder-open-o"></i></div>
+<div><i class="fa fa-folder-open-o"></i></div>  
+<div><i class="fa fa-folder-open-o"></i></div>
+<div><i class="fa fa-folder-open-o"></i></div>
+<div><i class="fa fa-folder-open-o"></i></div>
+<div><i class="fa fa-folder-open-o"></i></div>
+<div><i class="fa fa-folder-open-o"></i></div>
+<div><i class="fa fa-folder-open-o"></i></div>
+<div><i class="fa fa-folder-open-o"></i></div>
+
 </div>  	
-	
-	
-	
-	
-
-    order: 3;
-    -webkit-flex: 0 0 100%;
-    -ms-flex: 0 0 100%;
-    flex: 0 0 100%;
-    max-width: 100%;
-    -ms-grid-row: header;
-    grid-row-start: header;
-    grid-row-end: header;
-    -ms-grid-column: header;
-    grid-column-start: header;
-    grid-column-end: header;
-
-	
-	-ms-grid-row: header;
-    grid-row-start: unset;
-    grid-row-end: unset;
-    -ms-grid-column: unset;
-    grid-column-start: unset;
-    grid-column-end: unset;
-    margin: 12px 0 0 auto !important;
-    grid-column: 1 / 3;
 
 
-	
-	
-													flex desplay
-																										
-	display: flex;
-    height: 60px;
-    align-items: center;					/\ center work  \/	
-	ustify-content: center;					<  center work  >
-	
-	
-	
-													table css only
+
+
+
+order: 3;
+-webkit-flex: 0 0 100%;
+-ms-flex: 0 0 100%;
+flex: 0 0 100%;
+max-width: 100%;
+-ms-grid-row: header;
+grid-row-start: header;
+grid-row-end: header;
+-ms-grid-column: header;
+grid-column-start: header;
+grid-column-end: header;
+
+
+-ms-grid-row: header;
+grid-row-start: unset;
+grid-row-end: unset;
+-ms-grid-column: unset;
+grid-column-start: unset;
+grid-column-end: unset;
+margin: 12px 0 0 auto !important;
+grid-column: 1 / 3;
+
+
+
+
+												flex desplay
+
+display: flex;
+height: 60px;
+align-items: center;					/\ center work  \/	
+ustify-content: center;					<  center work  >
+
+
+
+												table css only
 
 border-collapse: separate;
 border-spacing: 0 1em;
