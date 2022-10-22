@@ -82,4 +82,61 @@ border-spacing: 0 1em;
 
 
 
+body {
+  background: rgb(2, 0, 36);
+  background: radial-gradient(
+    circle,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(30, 54, 59, 1) 0%,
+    rgba(93, 93, 116, 1) 100%
+  );
+}
+
+.container {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  max-width: 500px;
+  width: 100%;
+  margin: auto;
+}
+.container > form {
+  width: 450px;
+  border: 1px solid #dfdfdf;
+  padding: 20px;
+  border-radius: 5px;
+  background: #fff;
+}
+.container > form h1 {
+  text-align: center;
+}
+.field input {
+  width: 100%;
+}
+pre {
+  width: 70%;
+  color: #fff;
+  font-size: larger;
+}
+button.fluid {
+  margin: 0 auto;
+  display: block;
+  background-color: #1b1bbc;
+  color: #fff;
+  border: 0;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+.container > form .ui.form p {
+  margin-bottom: 0;
+}
+button {
+  background: #0563b4 !important;
+}
+p {
+  color: red;
+}
+
 
