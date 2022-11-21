@@ -18,8 +18,20 @@
 
 
 width type
+
 grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+
 width: calc(100% - (70px));
+/*
+.cd1-2 {width: calc(100% - (70px));background-color:red;height:100vh;float:left;}
+.cd1-1 {width: 70px;background-color:yellow;height:100vh;float:left;}
+
+expole
+<div class="cd1-1"></div>
+<div class="cd1-2"></div>
+*/
+
+
 
 height type
 grid-auto-rows: minmax(100px, auto);
