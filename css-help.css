@@ -17,10 +17,11 @@
 
 
 
-width
+width type
 grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+width: calc(100% - (70px));
 
-height
+height type
 grid-auto-rows: minmax(100px, auto);
 
 
