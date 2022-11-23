@@ -1,4 +1,25 @@
+/*
+ off line font Family add in website  
 
+01 strap =>
+
+https://convertio.co/
+https://transfonter.org/
+
+02=> 
+you get zip files and style file also. style file to open.
+
+03=> 
+@font-face {
+font-family: 'helvetica_neueregular';
+src: url('../src//font/helveticaneue-light-webfont.woff2') format('woff2'),
+url('../src//font/helveticaneue-light-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+04=> 
+and yes off line font family 
+*/
 	
 * {
 	margin: 0;
