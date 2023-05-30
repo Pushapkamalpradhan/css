@@ -1,0 +1,326 @@
+											/* open fontawesome*/
+https://www.w3schools.com/icons/fontawesome_icons_directional.asp
+											/* end fontawesome*/
+											
+											
+											
+											/* open start css first line*/
+*{text-decoration:none; list-style:none; box-sizing:border-box; margin:0px; padding:0px;}
+											/* end start css first line*/
+
+											/* open start css responsive*/											
+@media screen and (max-width: 1366px) {}
+                      /* end start css responsive*/	
+                      
+/* get in image text url link  */
+https://keep.google.com
+
+
+input.wpcf7-submit:hover {
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(50%, #b26c32), color-stop(50%, #d1732c));
+    background: linear-gradient(to top right, #b26c32 50%, #d1732c 50%);
+}
+
+input.wpcf7-submit {
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(50%, #d1732c), color-stop(50%, #b26c32));
+    background: linear-gradient(to top right, #d1732c 50%, #b26c32 50%);
+}
+
+
+											/* open */
+https://www.geeksforgeeks.org/targeting-only-firefox-with-css/   { this is the url link to how to use in Mozilla Firefox browser to help me }
+@-moz-document url-prefix() {
+.selector {
+color:lime;
+}
+}
+@-moz-document url-prefix() { 
+  .selector {
+     color: lime;
+  }
+}
+   <style type="text/css"> 
+  @-moz-document url-prefix() { 
+                h1 { 
+                    color: green;  
+                    font-size: 34px; 
+                    text-align: center; 
+                } 
+                p { 
+                    font-size: 24px; 
+                    text-align: center; 
+                } 
+            } 
+        </style> 
+		
+   <style type="text/css"> 
+            @supports (-moz-appearance:none) { 
+                h1 { 
+                    color: green;  
+                    font-size: 34px; 
+                    text-align: center; 
+                } 
+                p { 
+                    font-size: 24px; 
+                    text-align: center; 
+                    display:block; 
+                    padding: 20px; 
+                    background: green; 
+                    color: white; 
+                } 
+            } 
+        </style> 
+@media screen and (-moz-images-in-menus:0) {          h1 { 
+                    color: green;  
+                    font-size: 34px; 
+                    text-align: center; 
+                } }
+
+@media screen and (-webkit-min-device-pixel-ratio:0){.contact .wrapper{margin-top:-22px;}
+}
+@media all and (-ms-high-contrast:none), (-ms-high-contrast:active){.homepage .wrapper, .contact .wrapper{margin-top:-22px;}
+}
+												/* end */
+												/* open */
+												
+	https://www.w3schools.com/w3css/w3css_buttons.asp											
+.w3-btn:hover {
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+												/* end */
+												
+												
+												
+												
+								/* open eeee */
+
+
+ @media screen and (max-width: 980px) {
+@-moz-document url-prefix() { 
+                h1 { color: green;  } 
+ #wthvideo {left: 55px !important;top: 10.7% !important;}
+ } }
+			
+	
+ @media screen and (max-width: 980px) {	
+ @supports (-moz-appearance:none) { 
+                h1 { color: green;  } 
+ #wthvideo {left: 55px !important;top: 10.7% !important;}
+ }}
+ 
+ @media screen and (max-width: 980px) {
+@-moz-document domain(w3.org) {
+	           h1 { color: green;  } 
+ #wthvideo {left: 55px !important;top: 10.7% !important;}
+ }}
+ 
+ @media screen and (max-width: 980px) {	  
+@media screen and (-moz-images-in-menus:0) {  
+
+ #wthvideo {left: 55px !important;top: 10.7% !important;}
+ } }
+	
+
+
+ @media screen and (max-width: 980px) {	
+	@media screen and (-webkit-min-device-pixel-ratio:0) { 
+         #wthvideo {left: 55px !important;top: 10.7% !important;}
+ }}
+												/* end eeee */
+
+												/* open eeee  2*/
+
+
+/* these styles will apply to all pages on the w3.org website */
+ @media screen and (max-width: 980px) {
+@-moz-document domain(w3.org) {
+	  h1 { color: green;  } 
+         #wthvideo {left: 55px !important;top: 10.7% !important;}
+ }}
+
+/* these styles will apply only to the https://www.w3.org/standards/ page */
+
+ @media screen and (max-width: 980px) {
+@-moz-document url(https://www.w3.org/standards/) {
+	  h1 { color: green;  } 
+         #wthvideo {left: 55px !important;top: 10.7% !important;}
+ }}												
+												
+												/* end eeee 2*/												
+	
+	
+
+												/* open nth-child 2*/
+												
+ https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_nth-child_formula       /*  (help url) */
+												
+.news-row.home_news_area .pics_week_bg ul li:nth-child(+n+7) {
+    margin-top: 20px;
+}
+:nth child has targeat only 7 to 12 you give them any thing. 
+<ul>
+	<li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li><li>8</li><li>9</li><li>10</li><li>11</li><li>12</li>
+</ul>
+
+
+												/* end nth-child 2*/
+												
+											
+										/* 	open transition  */
+											
+/* 	    -webkit-transition: .3s ease;
+    -o-transition: .3s ease;
+    transition: .3s ease;	 */										
+												
+										/* 	end transition  */												
+												
+												
+												/*open popupe */
+	https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_popup	 										
+												
+												/* end popupe*/
+												
+												
+input.search {
+    width: 90%;
+    padding: 9px 5px;
+    border: transparent;
+    margin: 6px 0 8px 13px;
+    outline: none;      					/* input outline none */
+}	
+
+
+
+<input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text">
+<input type="time">
+<input type="url">
+<input type="week">
+
+	
+
+            @supports (-moz-appearance:none) { 
+                h1 { 
+                    color: green;  
+                    font-size: 34px; 
+                    text-align: center; 
+                } 
+.three_image .implant_center_b .implant_cc_1, .three_image .implant_center_c .implant_cc_2, .three_image .implant_center_d .implant_cc_3 {
+    height: 235px;
+}
+}	
+
+http://prntscr.com/ojjecc
+
+.comments-area > * {
+  margin-top: calc(2 * 1rem);
+  margin-bottom: calc(2 * 1rem);
+}
+
+@media only screen and (min-width: 768px) {
+  .comments-area > * {
+    margin-top: calc(3 * 1rem);
+    margin-bottom: calc(3 * 1rem);
+  }
+}
+<div class="comments-area">
+	<h2></h2>    			 target this 
+	<div></div>   			 target this 
+	<p></p>    			 target this 
+ </div>
+
+
+{25-7-2019}
+ 
+
+{2}
+.radio-check:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+.radio-check input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+.radio-check input:checked ~ .checkmark:after {
+  display: block;
+}
+.radio-check .checkmark:after {
+    top: 8px;
+    left: 9px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: white;
+}
+	<label class="radio-check">
+	<input type="radio" checked="checked" name="radio">
+	<span class="checkmark"></span>
+	</label>
+
+
+{2}
+
+!image zomeing in div box
+exzplam https://www.milkmagazine.net/
+
+.home-slider .home-slider-item .img-slider img:hover {
+    -ms-transform: scale(1.03);
+    transform: scale(1.03);
+}
+.home-slider .home-slider-item .img-slider img {
+    margin: 0 auto;
+    transition: transform 1s;
+
+}
+
+
+http://web.dbuglab.com/Minds/services/
+
+before
+a:focus {
+  outline: thin dotted;
+  text-decoration: underline;
+}
+
+after
+a:focus {
+  outline: unset !important;
+  text-decoration: underline;
+}	
+
+
+
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox
+
+<div>
+  <input type="radio" id="scales" name="scales" checked>
+  <label for="scales">Scales</label>
+</div>
+
+<div>
+  <input type="radio" id="scaless" name="scales">
+  <label for="scaless">Horns</label>
+</div>
+
